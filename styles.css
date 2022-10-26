@@ -80,7 +80,6 @@ header {
   font-weight: 900;
   font-family: 'Lato Black', sans-serif;
   background-repeat: no-repeat;
-  -webkit-background-clip: text;
 }
 
 #openingblurb {
