@@ -70,7 +70,6 @@ header {
   font-family: 'Lato Black', sans-serif;
   background-image: url(images/backgroundPattern.png);
   background-repeat: no-repeat;
-  -webkit-background-clip: text;
 }
 
 #abouttitle {
