@@ -9,6 +9,8 @@
 - HTML
 - CSS
 - JavaScript
+## loom link
+[Capstone Project 1: CONTENT CREATORS CONVENTION](https://www.loom.com/share/c4d28f8ff9c14a2c99d96cf2d23ffcfa)
 
 ## Live Demo
 
