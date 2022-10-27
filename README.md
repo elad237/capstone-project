@@ -1,34 +1,52 @@
-# Capstone-HTML-CSS-Basic-JS
+# Capstone-HTML-CSS-Basic-JS Global submit page
 
 > Capstone Project for Module 1 of the Microverse program, demonstrates mastery of HTML, CSS and Basic Javascript.
+
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
 ## Built With
 
 - HTML
 - CSS
-- Javascript
+- JavaScript
 
 ## Live Demo
 
-[Github Pages Link](https://asdt560.github.io/Capstone-HTML-CSS-Basic-JS/)
+[Capstone Project 1: CONTENT CREATORS CONVENTION](https://github.com/elad237/capstone-project.git)
+
+## Getting Started
+
+To get a local copy up and running:
+
+- Clone the repo
+
+git clone https://github.com/elad237/capstone-project.git
+
+
+Set it up localy.
 
 ## Authors
 
-👤 **Justo Rago**
+👤 **TUMBU BARTHOLOMEW ELAD**
 
-- GitHub: [@asdt560](https://github.com/asdt560)
-- Twitter: [@JustoRago](https://twitter.com/JustoRago)
-- LinkedIn: [@JustoRago](https://www.linkedin.com/in/justo-rago-0714b5208/)
+- GitHub: [@githubhandle](https://github.com/elad237)
+- Twitter: [@twitterhandle](https://twitter.com/Elad59380989)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/tumbu-elad-896ab2183/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/elad237/capstone-project/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-Original design is from [Cindy Shin](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015).
+
+- Original design idea by [Cindy Shin in Behance](https://www.behance.net/adagio07)
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
