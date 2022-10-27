@@ -1,4 +1,4 @@
-# Capstone-HTML-CSS-Basic-JS Global submit page
+# HTML/CSS & JavaScript capstone project 1- Conference page
 
 > Capstone Project for Module 1 of the Microverse program, demonstrates mastery of HTML, CSS and Basic Javascript.
 
@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-[Capstone Project 1: CONTENT CREATORS CONVENTION](https://github.com/elad237/capstone-project.git)
+[Capstone Project 1: CONTENT CREATORS CONVENTION](https://elad237.github.io/capstone-project/)
 
 ## Getting Started
 
@@ -23,7 +23,7 @@ To get a local copy up and running:
 git clone https://github.com/elad237/capstone-project.git
 
 
-Set it up localy.
+Set it up locally.
 
 ## Authors
 
