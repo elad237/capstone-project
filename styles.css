@@ -631,6 +631,11 @@ footer {
     padding: 0;
   }
 
+  .programdiv:hover {
+    box-sizing: content-box;
+    border: 2px solid white;
+  }
+
   .programimg {
     margin-top: 1em;
   }
